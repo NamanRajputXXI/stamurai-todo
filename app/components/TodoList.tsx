@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import { Todo } from "./model";
+import { Todo } from "../model";
 import SingleTodo from "./SingleTodo";
 import { Droppable } from "react-beautiful-dnd";
 interface Props {
